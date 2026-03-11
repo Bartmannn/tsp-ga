@@ -16,6 +16,11 @@ The TSP instances stored in the `points/` directory come from the University of 
 
 https://www.math.uwaterloo.ca/tsp/vlsi/index.html
 
+## Demo
+
+
+You can take a look at demo files [here](./demo/).
+
 ## Project Files
 
 ```text
